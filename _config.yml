@@ -12,7 +12,7 @@ github_repo: "https://github.com/CarnapRossen/CarnapRossen.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "独立之精神，自由之思想"
-sidebar-avatar: /img/avatar-m      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/akira.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
