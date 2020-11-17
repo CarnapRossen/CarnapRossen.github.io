@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "",
-        href: ""
+        title: "知乎",
+        href: "https://www.zhihu.com/people/z-x-y-76"
     },{
         title: "",
         href: ""
